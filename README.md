@@ -28,3 +28,7 @@ Excited to trasnistion in the cyber field to make a former hobby a fullfilling c
 
 ## Projects
 Coming soon!
+
+## CTFs! 
+
+- 2024 DoD Cyber Sentinel Skills Challenge
