@@ -27,8 +27,8 @@ Excited to trasnistion in the cyber field to make a former hobby a fullfilling c
 </div>
 
 ## Projects
-Coming soon!
+Password Generator
 
-## CTFs! 
+## CTFs
 
 - 2024 DoD Cyber Sentinel Skills Challenge
