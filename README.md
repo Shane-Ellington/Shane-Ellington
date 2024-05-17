@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Shane
 
-<!--
-**Shane-Ellington/Shane-Ellington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Current student pursuing a B.S. in Cybersecurity and Information Assurance. Eager to develop a strong skill set as a Red Teamer. On a quest to absorb as much knowledge as possible. 
 
-Here are some ideas to get you started:
+## Objective
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Excited to trasnistion in the cyber field to make a former hobby a fullfilling career. New to programming, but ready to grow and expand my knowledge-base. Please take a look on what I am working on. 
+
+### Programming Languages:
+- Python (Beginner)
+- Bash (Beginner)
+
+### Networking Tools:
+- Nmap (Intermediate)
+- Wireshark (Beginner)
+- Tcpdump (Beginner)
+
+### Web Applications:
+- Burp Suite (Beginner)
+
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+Coming soon!
