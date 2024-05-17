@@ -27,7 +27,7 @@ Excited to trasnistion in the cyber field to make a former hobby a fullfilling c
 </div>
 
 ## Projects
-Password Generator
+- <a href="https://github.com/Shane-Ellington/Password-Generator/tree/main"> Password Generator </a>
 
 ## CTFs
 
