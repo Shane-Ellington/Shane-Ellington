@@ -28,7 +28,8 @@ Excited to trasnistion in the cyber field to make a former hobby a fullfilling c
 
 ## Projects
 - <a href="https://github.com/Shane-Ellington/Password-Generator/tree/main"> Password Generator </a>
+- <a href="https://github.com/Shane-Ellington/Tip-Calculator/tree/main"> Tip Calculator w/ Currency Converter </a>
 
 ## CTFs
 
-- 2024 DoD Cyber Sentinel Skills Challenge
+- May 2024 DoD Cyber Sentinel Skills Challenge (Finished Top 25%)
