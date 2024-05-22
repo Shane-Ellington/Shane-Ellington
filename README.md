@@ -4,7 +4,7 @@ Current student pursuing a B.S. in Cybersecurity and Information Assurance. Eage
 
 ## Objective
 
-Excited to trasnistion into the cyber field to make a former hobby a fullfilling career. New to programming, but ready to grow and expand my knowledge-base. Please take a look on what I am working on. 
+Excited to trasnistion into the cyber field to make a former hobby a fullfilling career. New to programming, but ready to grow and expand my knowledge-base. Please take a look at what I am working on. 
 
 ### Programming Languages:
 - Python (Beginner)
