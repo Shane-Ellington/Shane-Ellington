@@ -29,7 +29,8 @@ Excited to trasnistion in the cyber field to make a former hobby a fullfilling c
 ## Projects
 - <a href="https://github.com/Shane-Ellington/Password-Generator/tree/main"> Password Generator </a>
 - <a href="https://github.com/Shane-Ellington/Tip-Calculator/tree/main"> Tip Calculator w/ Currency Converter </a>
--  <a href="https://github.com/Shane-Ellington/Black-Hat-Python"> Black Hat Python Practice (coming soon) </a>
+-  <a href="https://github.com/Shane-Ellington/Black-Hat-Python"> Black Hat Python Practice </a>
+---<a href="https://github.com/Shane-Ellington/Black-Hat-Python/blob/main/netcat2.py"> NetCat Tool based off BHP </a>
 
 ## CTFs
 
