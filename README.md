@@ -29,9 +29,9 @@ Excited to trasnistion into the cyber field to make a former hobby a fullfilling
 ## Projects
 - <a href="https://github.com/Shane-Ellington/Password-Generator/tree/main"> Password Generator </a>
 - <a href="https://github.com/Shane-Ellington/Tip-Calculator/tree/main"> Tip Calculator w/ Currency Converter </a>
--  <a href="https://github.com/Shane-Ellington/Black-Hat-Python"> Black Hat Python Practice </a>
----<a href="https://github.com/Shane-Ellington/Black-Hat-Python/blob/main/netcat2.py"> NetCat Tool based off BHP </a>
-
+- <a href="https://github.com/Shane-Ellington/Black-Hat-Python"> Black Hat Python Practice </a>
+  * <a href="https://github.com/Shane-Ellington/Black-Hat-Python/blob/main/netcat2.py"> NetCat Tool based off BHP </a>
+  * <a href="https://github.com/Shane-Ellington/Black-Hat-Python/blob/main/proxy.py"> TCP Proxy -BHP (WIP) </a>
 ## CTFs
 
 - May 2024 DoD Cyber Sentinel Skills Challenge (Finished Top 25%)
