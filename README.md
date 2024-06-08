@@ -27,6 +27,7 @@ Excited to trasnistion into the cyber field to make a former hobby a fullfilling
 </div>
 
 ## Projects
+- <a href="https://github.com/Shane-Ellington/Python-Crash-Course"> Python Crash Course Practice </a>
 - <a href="https://github.com/Shane-Ellington/Password-Generator/tree/main"> Password Generator </a>
 - <a href="https://github.com/Shane-Ellington/Tip-Calculator/tree/main"> Tip Calculator w/ Currency Converter </a>
 - <a href="https://github.com/Shane-Ellington/Black-Hat-Python"> Black Hat Python Practice </a>
@@ -35,3 +36,4 @@ Excited to trasnistion into the cyber field to make a former hobby a fullfilling
 ## CTFs
 
 - May 2024 DoD Cyber Sentinel Skills Challenge (Finished Top 25%)
+
